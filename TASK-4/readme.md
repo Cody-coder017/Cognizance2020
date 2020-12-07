@@ -57,4 +57,5 @@ The researchers observed each participant during a guided meditation session led
 ___
 >## CONCLUSION:
 The AI robot are much efficient for the human needs we should harness their power in an ethical manner.
+“If we do it right, we might be able to evolve a form of work that taps into our uniquely human capabilities and restores our humanity. The ultimate paradox is that this technology may become a powerful catalyst that we need to reclaim our humanity.”
 
