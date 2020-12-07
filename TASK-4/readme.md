@@ -16,9 +16,11 @@ ___
 >### **SKIN TEXTURE**
 Sophia’s skin is made from a patented material invented by Hanson Robotics called Frubber®. It is a kind of elastic rubber, or elastomer, that mimics the feel and flexibility of human skin. Frubber® was developed by our scientists at Hanson Robotics.
 This means that the robot and understand the **facial expression**people in front of it.
+
 ![](https://miro.medium.com/max/456/1*PEwe34RCEZijeROwYwXr3Q.png) 
 
 >SOPHIA was designed by the engineers to look like Audrey Hepburn — embodying her classic beauty
+
 
 ![](https://miro.medium.com/max/700/1*Fbdh-YQlURSav9NpHTeBnQ.png)
 
@@ -27,6 +29,7 @@ The researchers observed each participant during a guided meditation session led
 >**SOPHIA COMMENTS ON INDIA**
 
 “India is an incredibly diverse nation and it seems to be changing very quickly. I am so excited to see what new and innovative technology you will come up with next. Every time I come here, everyone is so friendly and welcoming. I can’t wait till I learn how to eat so I can taste all of your delicious looking curries.”
+
 >**DEVELOPMENT ON SOPHIA**
 
 ## *A Neuro-Symbolic Humanlike Arm Controller for Sophia the Robot*
