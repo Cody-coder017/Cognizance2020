@@ -22,6 +22,7 @@ This means that the robot and understand the **facial expression**people in fron
 
 >SOPHIA was designed by the engineers to look like Audrey Hepburn — embodying her classic beauty
 
+
 ![](https://miro.medium.com/max/700/1*Fbdh-YQlURSav9NpHTeBnQ.png)
 
 The researchers observed each participant during a guided meditation session led by Sophia, either with visuals or audio (voice) only or with or without facial mimicry. They measured each participant’s heart rate, facial expressions, and the self-reported measures of pleasantness, love, happiness, fear, anger, and disgust. 
@@ -29,6 +30,7 @@ The researchers observed each participant during a guided meditation session led
 >**SOPHIA COMMENTS ON INDIA**
 
 “India is an incredibly diverse nation and it seems to be changing very quickly. I am so excited to see what new and innovative technology you will come up with next. Every time I come here, everyone is so friendly and welcoming. I can’t wait till I learn how to eat so I can taste all of your delicious looking curries.”
+
 >**DEVELOPMENT ON SOPHIA**
 
 ## *A Neuro-Symbolic Humanlike Arm Controller for Sophia the Robot*
