@@ -5,6 +5,7 @@
 ![sophia](https://www.hansonrobotics.com/wp-content/uploads/2018/11/sophia_therobot_hat.jpg)
  
  * **Hanson** designed Sophia to be a suitable companion for the elderly at nursing homes, or to help crowds at large events or parks.
+ 
  ![](https://robots.net/wp-content/uploads/2020/06/2DavidHanson-600x400.jpg)
 
 
@@ -16,6 +17,7 @@ ___
 >### **SKIN TEXTURE**
 Sophia’s skin is made from a patented material invented by Hanson Robotics called Frubber®. It is a kind of elastic rubber, or elastomer, that mimics the feel and flexibility of human skin. Frubber® was developed by our scientists at Hanson Robotics.
 This means that the robot and understand the **facial expression**people in front of it.
+
 ![](https://miro.medium.com/max/456/1*PEwe34RCEZijeROwYwXr3Q.png) 
 
 >SOPHIA was designed by the engineers to look like Audrey Hepburn — embodying her classic beauty
