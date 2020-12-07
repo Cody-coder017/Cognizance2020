@@ -51,9 +51,10 @@ The researchers observed each participant during a guided meditation session led
  >3.Ronaldo challenges robot to shout “SIUU” in MEO commercial
  ![](http://cronaldodaily.com/wp-content/uploads/2018/03/sofia-e-ronaldo-696x464.jpg)
  
- >### **SAUDI CITIZENSHIP FOR SOPHIA**
+ ### **SAUDI CITIZENSHIP FOR SOPHIA**
 
 ![citizenship](https://pbs.twimg.com/media/DM_oD4VW0AAQ4jS?format=jpg&name=small)
 ___
->## CONCLUSION
+>## CONCLUSION:
 The AI robot are much efficient for the human needs we should harness their power in an ethical manner.
+
