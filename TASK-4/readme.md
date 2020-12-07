@@ -57,9 +57,11 @@ The researchers observed each participant during a guided meditation session led
 ___
 >## CONCLUSION:
 The AI robot are much efficient for the human needs we should harness their power in an ethical manner.
-“If we do it right, we might be able to evolve a form of work that taps into our uniquely human capabilities and restores our humanity. The ultimate paradox is that this technology may become a powerful catalyst that we need to reclaim our humanity.” John Hagel
+“If we do it right, we might be able to evolve a form of work that taps into our uniquely human capabilities and restores our humanity. The ultimate paradox is that this technology may become a powerful catalyst that we need to reclaim our humanity.” **John Hagel**
     
 
     “The coming era of Artificial Intelligence will not be the era of war, but be the era of deep compassion, non-violence, and love.”
-    Amit Ray, Pioneer of Compassionate AI Movement.
+   **Amit Ray, Pioneer of Compassionate AI Movement.**
 
+We have seen AI providing conversation and comfort to the lonely; we have also seen AI engaging in racial discrimination. Yet the biggest harm that AI is likely to do to individuals in the short term is job displacement, as the amount of work we can automate with AI is vastly larger than before. As leaders, it is incumbent on all of us to make sure we are building a world in which every individual has an opportunity to thrive.”
+**Andrew Ng, Co-founder and lead of Google Brain**
