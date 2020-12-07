@@ -58,4 +58,8 @@ ___
 >## CONCLUSION:
 The AI robot are much efficient for the human needs we should harness their power in an ethical manner.
 “If we do it right, we might be able to evolve a form of work that taps into our uniquely human capabilities and restores our humanity. The ultimate paradox is that this technology may become a powerful catalyst that we need to reclaim our humanity.”
+   - John Hagel
+
+    “The coming era of Artificial Intelligence will not be the era of war, but be the era of deep compassion, non-violence, and love.”
+    Amit Ray, Pioneer of Compassionate AI Movement.
 
